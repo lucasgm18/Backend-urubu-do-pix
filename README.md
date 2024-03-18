@@ -11,3 +11,18 @@ Neste projeto, exploraremos como criar uma aplicação web utilizando Ruby e Sin
 - Ruby 🚀
 - Sinatra 🎩
 - OpenAI 🤖
+## Vídeo
+
+Confira o vídeo do livecode: [▶️Clique aqui](https://www.youtube.com/watch?v=pVUh3ast1r4)
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você quiser melhorar este projeto ou adicionar novas funcionalidades, fique à vontade para enviar um pull request.
+
+## Autores
+
+- Mano Deyvin [ 🧑‍💻Clique aqui](https://github.com/deyvin)
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE) ⚖️.
