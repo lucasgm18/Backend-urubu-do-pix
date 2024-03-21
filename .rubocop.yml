@@ -1,0 +1,21 @@
+Rails/ApplicationRecord:
+  Enabled: false
+
+  require:
+  - rubocop-rails
+  - rubocop-rspec
+
+  Documentation:
+ Enabled: false
+
+Style/FrozenStringLiteralComment:
+ Enabled: false
+
+Layout/FirstArrayElementIdentation:
+  EnforcedStyle: consistent
+
+Layout/ArgumentAlignment:
+  EnforcedStyle: with_fixed_indentation
+
+AllCops:
+   SuggestExtensions: false
